@@ -35,5 +35,9 @@
     "grunt-eslint": "^16.0.0",
     "load-grunt-tasks": "^3.2.0",
     "tornado.js": "^0.1.1"
+  },
+  "dependencies": {
+    "broccoli-filter": "^0.2.0",
+    "tornado.js": "^0.2.1"
   }
 }
